@@ -30,7 +30,7 @@ Make sure you have **Node.js** and **npm** installed.
 
 ## 📸 Screenshots
 
-![App Screenshot](public/screenshot.png)
+![App Screenshot](screenshot.png)
 ---
 
 ## 🛠 Technologies Used
