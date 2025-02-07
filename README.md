@@ -39,6 +39,9 @@ Make sure you have **Node.js** and **npm** installed.
 - **CSS** - Styling the app
 - **Google Fonts** - For aesthetic typography
 ---
+## 🔗 Live Demo
+
+[Check out the To-Do List App](https://slowpoke04.github.io/aesthetic-todo-app/)
 
 ## 📬 Contact
 
