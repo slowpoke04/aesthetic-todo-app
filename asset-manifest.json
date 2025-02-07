@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aesthetic-todo-app/static/css/main.69eda5e2.css",
+    "main.js": "/aesthetic-todo-app/static/js/main.4967371e.js",
+    "index.html": "/aesthetic-todo-app/index.html",
+    "main.69eda5e2.css.map": "/aesthetic-todo-app/static/css/main.69eda5e2.css.map",
+    "main.4967371e.js.map": "/aesthetic-todo-app/static/js/main.4967371e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69eda5e2.css",
+    "static/js/main.4967371e.js"
+  ]
+}
